@@ -1,12 +1,47 @@
-# React + Vite
+# ♻️ Skip Selector Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive, modern web application built with **React**, **Vite**, and **Tailwind CSS**, allowing users to browse and select skip bins based on size, hire period, and eligibility (on-road or private use).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Built with **Vite** for lightning-fast development.
+- 🎨 Styled using **Tailwind CSS** with a clean and eco-friendly design.
+- 🔍 Data-driven UI: skip options loaded from JSON.
+- 📱 Fully responsive for desktop and mobile devices.
+- 🧩 Icon support using **Lucide React**.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Tech Stack
+
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **Lucide Icons**
+
+---
+
+## 📂 Project Structure
+
+
+---
+
+## 🛠️ Installation
+
+### 1. Clone the repo
+
+git clone https://github.com/your-username/my-skip-app.git
+cd my-skip-app
+
+### 2. Install Dependencies
+
+npm install
+
+### 3. Start Development Server 
+
+npm run dev
+
+
+### 4. View in Browser
